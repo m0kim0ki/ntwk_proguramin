@@ -1,0 +1,14 @@
+#wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    color: #fff;
+  }
+  
+  a{
+    color: #fff;
+  }
+html,body{
+    height: 100%;
+} 
